@@ -1,0 +1,72 @@
+	body {
+		line-height: 1;
+		-webkit-font-smoothing: antialiased;
+		font-smoothing: antialiased;
+		background: #000000;
+		color: #ffffff;
+		font-family: "Helvetica", "Helvetica", helvetica, arial;
+	}
+
+	ul,li {
+		margin: 0; 
+		padding: 0;
+		}
+		
+	ul span {
+		display: inline-block;
+	}
+
+	ul li a {
+		line-height: 24px;
+		letter-spacing: 1px;
+		text-decoration: none; 
+		font-size: 10px; 
+		color: #ffffff; 
+		text-transform: uppercase;
+		}
+
+	a {
+		color: #16b8d9;
+		text-decoration: none;
+	}
+
+	#links {
+		text-align: center;
+		font-size: 8px;
+		padding: 80px 0 0px 0;
+		text-transform: uppercase;
+		font-family:"Helvetica";
+	}
+	
+	#gpg {
+		width: 250px;
+		margin:0 auto;
+		font-size: 8px;
+		text-transform: uppercase;
+		font-family:"Helvetica";
+	}
+	
+	.program_image{
+		padding:1px;
+		border-radius:15px;
+	}
+	
+	#self_portrait{
+		padding:1px;
+		width: 100px;
+		border-radius:50px;
+	}
+	
+	#description{
+		width:500px;
+		font-size: 10px;
+		text-transform: none;
+		text-align: center;
+		margin:0 auto;
+	}
+
+	.skills{
+		text-align: center;
+		list-style-type: none;
+		list-style: none;
+	}
