@@ -39,7 +39,7 @@
 	}
 	
 	#gpg {
-		width: 250px;
+		/*width: 250px;*/
 		margin:0 auto;
 		font-size: 8px;
 		text-transform: uppercase;
@@ -69,4 +69,16 @@
 		text-align: center;
 		list-style-type: none;
 		list-style: none;
+	}
+	.pull-left{
+		float:left;
+		width:19%;
+	}
+	.pull-right{
+		float:right;
+		text-align: center;
+		width:79%;
+	}
+	ul.no_deco {
+		list-style-type: none;
 	}
